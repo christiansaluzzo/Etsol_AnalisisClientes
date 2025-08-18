@@ -1,17 +1,17 @@
 ## Datos iniciales 
-- Análisis de Clientes en busca de "Rentabilidad". Es una búsqueda del cliente ideal.
+- Análisis de Clientes en busca de analizar su "Rentabilidad". Es una búsqueda del cliente ideal.
 - Tamaño del abono.
 - Cantidad de licencias.
 - Cantidad de productos.
 - Cantidad de tickets solicitados.
-- Cliente más rentable.
-- Anicharse lo más posible.
+- (**) Cliente más rentable.
+- (**) Anicharse lo más posible.
 
 - A considerar:
     - CPS "costo de adquisición de clientes" - cuento deja por mes - cuanto se queda
 
 ## Análisis comercial + Análisis de comportamiento de clientes
-- con lo que ya tienes podrías
+- Con lo que ya tienes podrías
     - detectar patrones muy interesantes para tomar decisiones estratégicas.
 
 
