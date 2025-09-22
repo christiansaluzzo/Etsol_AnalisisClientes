@@ -1,4 +1,4 @@
-Nombre de Cuenta,Tipo de Cuenta,Nombre de Modulo Activo,Producto,Cantidad de PC,Cantidad de teléfonos Mobile,Cantidad de Usuarios,Calificación,Fecha de  Venta,Fecha de Alta,Fecha de baja Paljet,Fecha de Inicio PalJetERP,Estado
+Nombre de Cuenta,Tipo de Cuenta,Nombre de Modulo Activo,Producto,Cantidad de PC,Cantidad de teléfonos Mobile,Cantidad de Usuarios,Calificación,Fecha de venta,Fecha de Alta,Fecha de baja Paljet,Fecha de Inicio PalJetERP,Estado
 Agujuan srl,Cliente,Agujuan srl - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),3,5,,Activo,,25/08/2025,,,Activo
 Agujuan srl,Cliente,Agujuan srl - WebService,Web Service PalJet ERP (para integraciones),3,5,,Activo,,25/08/2025,,,Activo
 Agujuan srl,Cliente,Agujuan srl - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,3,5,,Activo,,25/08/2025,,,Activo
