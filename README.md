@@ -3,6 +3,7 @@
 - Tamaño del abono.
 - Cantidad de licencias.
 - Cantidad de productos.
+- **Combinación de productos que sean solcitadas que nos permitan buscar DONDE se repiten y DONDE no se repiten 
 - Cantidad de tickets solicitados.
 - (**) Cliente más rentable.
 - (**) Anicharse lo más posible.
