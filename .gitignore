@@ -1,4 +1,5 @@
 .env/
 .venv/
+resultados_dashboard/
 *.xlsx
 
