@@ -1,24 +1,40 @@
-Nombre de Cuenta,Tipo de Cuenta,Nombre de Modulo Activo,Producto,Cantidad de PC,Cantidad de teléfonos Mobile,Cantidad de Usuarios,Calificación,Fecha de venta,Fecha de Alta,Fecha de baja Paljet,Fecha de Inicio PalJetERP,Estado
-Agujuan srl,Cliente,Agujuan srl - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),3,5,,Activo,,25/08/2025,,,Activo
-Agujuan srl,Cliente,Agujuan srl - WebService,Web Service PalJet ERP (para integraciones),3,5,,Activo,,25/08/2025,,,Activo
-Agujuan srl,Cliente,Agujuan srl - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,3,5,,Activo,,25/08/2025,,,Activo
+Nombre de Cuenta,Tipo de Cuenta,Nombre de Modulo Activo,Producto,Cantidad de PC,Cantidad de teléfonos Mobile,Cantidad de Usuarios,Calificación,Fecha de  Venta,Fecha de Alta,Fecha de baja Paljet,Fecha de Inicio PalJetERP,Estado
+AGUJUAN S.R.L.,Cliente,Agujuan srl - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),3,5,,Activo,16/09/2025,25/08/2025,,,Activo
+AGUJUAN S.R.L.,Cliente,Agujuan srl - WebService,Web Service PalJet ERP (para integraciones),3,5,,Activo,16/09/2025,25/08/2025,,,Activo
+AGUJUAN S.R.L.,Cliente,Agujuan srl - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,3,5,,Activo,16/09/2025,25/08/2025,,,Activo
+ZENIT FERRETERIA INDUSTRIAL,Cliente,,,5,,,Activo,18/09/2025,08/09/2025,,,
 ARENAS DEL PARANA SRL,Cliente,ARENAS DEL PARANA SRL - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),3,,,Activo,27/06/2025,23/06/2025,,21/07/2025,Activo
 VETERINARIA ARGENTINA,Cliente,VETERINARIA ARGENTINA - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),7,,,Activo,24/06/2025,19/06/2025,,,Activo
-Grupo Anguios S.R.L,Cliente,Grupo Anguios S.R.L - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),4,,6,Activo,19/06/2025,13/06/2025,,,Activo
-Smack,Cliente,SMACK - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),3,,,Activo,20/09/2024,18/09/2024,,27/05/2025,Inactivo
-ARCOIRIS PINTURERIA,Cliente,ARCOIRIS PINTURERIA - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),20,,23,Activo,19/09/2024,16/09/2024,,01/09/2025,Inactivo
+Valeant S.R.L.,Cliente,,,9,,,Activo,23/05/2025,19/05/2025,,04/07/2025,
+WORK FERRETERIA,Cliente,Grupo Anguios S.R.L - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),4,,6,Activo,19/06/2025,13/06/2025,,,Activo
+Autopiezas SRL,Cliente,,,7,434513711,,Activo,26/05/2025,22/05/2025,,,
+E-Parts Franquicia Chaco,Cliente,,,3,,,Activo,23/06/2025,10/04/2025,,25/07/2025,
+E- Parts Franquicia Chajarí,Cliente,,,4,,,Activo,10/06/2025,21/03/2025,,24/07/2025,
+E-Parts Franquicia Juan Jose Castelli,Cliente,,,3,,,Activo,23/06/2025,28/03/2025,,01/09/2025,
+AM Motorstore,Cliente,,,4,,8,Activo,09/05/2025,08/05/2025,,,
+MLS REFRIGERACION,Cliente,,,4,,6,Activo,20/03/2025,31/03/2025,,31/03/2025,
+EFEPE,Cliente,,,3,,,Activo,25/08/2025,22/08/2025,,,
+Metro Mayorista,Cliente,,,4,,8,Activo,21/04/2025,03/04/2025,,,
+Hormicom,Cliente,,,3,,,Activo,24/04/2025,23/04/2025,,,
+E-Parts Rosario,Cliente,,,3,,,Activo,22/01/2025,09/12/2024,,04/02/2025,
+Vergara Insumos para la Construcción,Cliente,,,16,,,Activo,10/12/2024,29/10/2024,,07/06/2025,
+Smack,Cliente,SMACK - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),3,,,Activo,20/09/2024,18/09/2024,,27/05/2025,Activo
+MARINÉ,Cliente,,,4,,0,Activo,23/05/2025,20/05/2025,,01/08/2025,
+ARCOIRIS PINTURERIA,Cliente,ARCOIRIS PINTURERIA - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),20,,23,Activo,19/09/2024,16/09/2024,,01/09/2025,Activo
 ARCOIRIS PINTURERIA,Cliente,ARCOIRIS PINTURERIA - Web Service,Web Service PalJet ERP (para integraciones),20,,23,Activo,19/09/2024,16/09/2024,,01/09/2025,Inactivo
 ARCOIRIS PINTURERIA,Cliente,ARCOIRIS PINTURERIA - BBJet BtoB,BBJet BtoB,20,,23,Activo,19/09/2024,16/09/2024,,01/09/2025,Inactivo
 ARCOIRIS PINTURERIA,Cliente,ARCOIRIS PINTURERIA - Logística,Módulo Logística,20,,23,Activo,19/09/2024,16/09/2024,,01/09/2025,Activo
 ARCOIRIS PINTURERIA,Cliente,ARCOIRIS PINTURERIA - Contabilidad,Módulo Contabilidad,20,,23,Activo,19/09/2024,16/09/2024,,01/09/2025,Activo
 ARCOIRIS PINTURERIA,Cliente,ARCOIRIS PINTURERIA - CUIT adicional,CUIT adicional,20,,23,Activo,19/09/2024,16/09/2024,,01/09/2025,Activo
 ARCOIRIS PINTURERIA,Cliente,ARCOIRIS PINTURERIA - Factura de Crédito Electrónica,Módulo Factura de crédito electrónica,20,,23,Activo,19/09/2024,16/09/2024,,01/09/2025,Activo
-MI viejo corralón y ferretería,Cliente,MI VIEJO CORRALÓN Y FERRETERÍA - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),4,,,Activo,15/08/2024,12/08/2024,,25/11/2024,Inactivo
+MI viejo corralón y ferretería,Cliente,MI VIEJO CORRALÓN Y FERRETERÍA - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),4,,,Activo,15/08/2024,12/08/2024,,25/11/2024,Activo
+Direfil,Cliente,,,6,,7,Activo,14/08/2024,13/08/2024,,09/01/2025,
 E-Parts Franquicia San Luis,Cliente,E-Parts Franquicia San Luis - Business Intelligence,Business Intelligence,4,,3,Activo,08/07/2024,01/07/2024,,29/08/2024,Activo
 E-Parts Franquicia San Luis,Cliente,E-Parts Franquicia San Luis - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),4,,3,Activo,08/07/2024,01/07/2024,,29/08/2024,Activo
 E-Parts Franquicia San Luis,Cliente,E-Parts Franquicia San Luis - Web Service,Web Service PalJet ERP (para integraciones),4,,3,Activo,08/07/2024,01/07/2024,,29/08/2024,Activo
 Piragini Motorepuestos,Cliente,Piragini Motorepuestos - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),6,,6,Activo,26/06/2024,10/06/2024,,08/10/2024,Activo
-Desconci Metalúrgica y Corralon,Cliente,Desconci Metalúrgica y Corralon - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),3,,,Activo,24/12/2024,13/12/2024,,,Inactivo
+Desconci Metalúrgica y Corralon,Cliente,Desconci Metalúrgica y Corralon - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),3,,,Activo,24/12/2024,13/12/2024,,,Activo
+Nicolás Rogelio Caldo,Cliente,Nicolás Rogelio Caldo - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),3,,3,Activo,23/01/2025,17/01/2025,,,Activo
 LOGBELTS SRL,Cliente,LOGBELTS SRL - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),9,6,,Activo,06/09/2024,02/09/2024,,08/01/2025,Activo
 LOGBELTS SRL,Cliente,LOGBELTS SRL - Web Service,Web Service PalJet ERP (para integraciones),9,6,,Activo,06/09/2024,02/09/2024,,08/01/2025,Activo
 LOGBELTS SRL,Cliente,LOGBELTS SRL - BBJet BtoB,BBJet BtoB,9,6,,Activo,06/09/2024,02/09/2024,,08/01/2025,Activo
@@ -31,19 +47,25 @@ HORMI-TRAS,Cliente,Hormi tras S.A - PalJet ERP,PalJet ERP estándar - Licencia s
 E-Parts Franquicia Villa Martelli,Cliente,E-Parts Franquicia Villa Martelli - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),2,,5,Activo,24/06/2024,03/05/2024,,18/06/2024,Activo
 E-Parts Franquicia Villa Martelli,Cliente,E-Parts Franquicia Villa Martelli - Web Service,Web Service PalJet ERP (para integraciones),2,,5,Activo,24/06/2024,03/05/2024,,18/06/2024,Activo
 E-Parts Franquicia Villa Martelli,Cliente,E-Parts Franquicia Villa Martelli - BBJet BtoB,BBJet BtoB,2,,5,Activo,24/06/2024,03/05/2024,,18/06/2024,Activo
-SAMACO,Cliente,SAMACO - BBJet ML 2.0,BBJet ML (v. 2.0),75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Inactivo
-SAMACO,Cliente,SAMACO - Tienda BToC,Tienda BtoC,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Inactivo
-SAMACO,Cliente,SAMACO - Factura de crédito electrónica,Módulo Factura de crédito electrónica,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Activo
-SAMACO,Cliente,SAMACO - Contabilidad,Módulo Contabilidad,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Activo
-SAMACO,Cliente,SAMACO - Acuerdo de precios,Módulo Acopio por acuerdo de precios,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Activo
-SAMACO,Cliente,SAMACO - Logística,Módulo Logística,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Activo
-SAMACO,Cliente,SAMACO - BBjet BtoB,BBJet BtoB,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Activo
-SAMACO,Cliente,SAMACO - Power BI,Business Intelligence,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Inactivo
+Samaco,Cliente,SAMACO - BBJet ML 2.0,BBJet ML (v. 2.0),75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Inactivo
+Samaco,Cliente,SAMACO - Tienda BToC,Tienda BtoC,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Inactivo
+Samaco,Cliente,SAMACO - Factura de crédito electrónica,Módulo Factura de crédito electrónica,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Activo
+Samaco,Cliente,SAMACO - Contabilidad,Módulo Contabilidad,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Activo
+Samaco,Cliente,SAMACO - Acuerdo de precios,Módulo Acopio por acuerdo de precios,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Activo
+Samaco,Cliente,SAMACO - Logística,Módulo Logística,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Activo
+Samaco,Cliente,SAMACO - BBjet BtoB,BBJet BtoB,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Activo
+Samaco,Cliente,SAMACO - Power BI,Business Intelligence,75,,100,Activo,13/09/2024,27/08/2024,,01/08/2025,Inactivo
+TINAGRO,Cliente,,,10,,12,Activo,17/12/2024,06/12/2024,,,
 E-Parts Franquicia Posadas,Cliente,E-PARTS POSADAS - BBJet Pretium,BBJet Pretium,4,,6,Activo,30/04/2024,13/03/2024,,17/04/2024,Activo
 E-Parts Franquicia Posadas,Cliente,E-Parts Posadas - BBJet BtoB,BBJet BtoB,4,,6,Activo,30/04/2024,13/03/2024,,17/04/2024,Activo
 E-Parts Franquicia Posadas,Cliente,E-Parts Posadas - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),4,,6,Activo,30/04/2024,13/03/2024,,17/04/2024,Activo
 E-Parts Franquicia Posadas,Cliente,E-Parts Posadas - Business Intelligence,Business Intelligence,4,,6,Activo,30/04/2024,13/03/2024,,17/04/2024,Activo
 E-Parts Franquicia Posadas,Cliente,E-Parts Franquicia Posadas - Web Service,Web Service PalJet ERP (para integraciones),4,,6,Activo,30/04/2024,13/03/2024,,17/04/2024,Activo
+LA HISTORICA,Cliente,,,6,,,Activo,06/05/2024,29/04/2024,,01/07/2024,
+Motoracing Rafaela,Cliente,,,6,,7,Activo,17/05/2024,06/05/2024,,06/01/2025,
+Abastecedora Patagónica,Cliente,,,14,,,Activo,12/03/2024,11/03/2024,,,
+FLORIDA NORTE,Cliente,,,15,,,Activo,28/04/2025,17/04/2025,,,
+BOUZAK,Cliente,,,5,,,Activo,16/05/2024,16/05/2024,,,
 El Super de los Filtros,Cliente,Orden de servicio,Módulo Orden de servicio,35,7,35,Activo,16/02/2024,15/02/2024,,03/04/2024,Activo
 El Super de los Filtros,Cliente,El Super de los Filtros - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),35,7,35,Activo,16/02/2024,15/02/2024,,03/04/2024,Activo
 El Super de los Filtros,Cliente,Multicuit - El rey servicios,CUIT adicional,35,7,35,Activo,16/02/2024,15/02/2024,,03/04/2024,Inactivo
@@ -52,8 +74,12 @@ El Super de los Filtros,Cliente,El Super de los Filtros - BBJet Mobile,BBJet Mob
 El Super de los Filtros,Cliente,El Super de los Filtros - BBJet Gestión de Inventario,BBJet Gestion de inventario,35,7,35,Activo,16/02/2024,15/02/2024,,03/04/2024,Activo
 El Super de los Filtros,Cliente,El Super de los Filtros - BBJet Expedición,BBJet Expedición,35,7,35,Activo,16/02/2024,15/02/2024,,03/04/2024,Activo
 SJG MONTAJES INDUSTRIALES,Cliente,SJG MONTAJES INDUSTRIALES,PalJet ERP estándar - Licencia servidor (backend),9,,,Activo,20/12/2023,12/12/2023,,03/04/2024,Activo
+Calabria Aceros,Cliente,,,4,,,Activo,10/11/2023,06/11/2023,,23/09/2024,
+Credimisión,Cliente,,,11,8,,Activo,14/05/2024,10/05/2024,,04/11/2024,
+CENTROMAT,Cliente,,,2,,,Activo,02/11/2023,30/10/2023,,03/06/2024,
 Casa Bernalla,Cliente,BERNALLA- BBJET MOBILE,BBJet Mobile Preventa Licencia servidor,3,3,6,Activo,08/09/2023,04/09/2023,,11/03/2024,Activo
 Casa Bernalla,Cliente,BERNALLA- BBJET BTOB,BBJet BtoB,3,3,6,Activo,08/09/2023,04/09/2023,,11/03/2024,Activo
+CDR Mecánica,Cliente,,,3,,,Activo,13/03/2024,07/03/2024,,19/09/2024,
 BACI,Cliente,BACI- Contabilidad,Módulo Contabilidad,18,,,Activo,27/09/2023,26/09/2023,,09/01/2024,Activo
 BACI,Cliente,BACI- Logistica,Módulo Logística,18,,,Activo,27/09/2023,26/09/2023,,09/01/2024,Activo
 BACI,Cliente,BACI- Alquileres + Orden de Servicio,Combo Módulo Alquileres/Rental + Orden de servicio,18,,,Activo,27/09/2023,26/09/2023,,09/01/2024,Activo
@@ -65,6 +91,8 @@ BACI,Cliente,BACI- BBJet BtoB,BBJet BtoB,18,,,Activo,27/09/2023,26/09/2023,,09/0
 BACI,Cliente,BACI- BBJet Expedición + Gestion de inventario,Abono mensual - BBJet Expedición,18,,,Activo,27/09/2023,26/09/2023,,09/01/2024,Activo
 BACI,Cliente,BACI - Paljet ERP,PalJet ERP estándar - Licencia servidor (backend),18,,,Activo,27/09/2023,26/09/2023,,09/01/2024,Activo
 BACI,Cliente,BACI - Web Service,Web Service PalJet ERP (para integraciones),18,,,Activo,27/09/2023,26/09/2023,,09/01/2024,Activo
+FA Y FA,Cliente,,,,,,Activo,07/09/2023,08/08/2023,,,
+DISTRIBUIDORA SENCO,Cliente,,,4,4,,Activo,01/09/2023,28/08/2023,,14/04/2025,
 ROSTOCK,Cliente,Rostock - BBJet BtoB,BBJet BtoB,7,,5,Activo,19/07/2023,13/07/2023,,13/11/2023,
 ROSTOCK,Cliente,Rostock - Gestión de inventario,BBJet Gestion de inventario,7,,5,Activo,19/07/2023,13/07/2023,,13/11/2023,
 ROSTOCK,Cliente,ROSTOCK - Web Service,Web Service PalJet ERP (para integraciones),7,,5,Activo,19/07/2023,13/07/2023,,13/11/2023,Activo
@@ -72,14 +100,20 @@ ROSTOCK,Cliente,ROSTOCK - PalJet ERP,PalJet ERP estándar - Licencia servidor (b
 LA Distribuciones,Cliente,LA Distribuciones - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,4,9,,Activo,11/05/2023,08/05/2023,,26/09/2023,
 LA Distribuciones,Cliente,LA Distribuciones - BBJet Gestion de inventario,BBJet Gestion de inventario,4,9,,Activo,11/05/2023,08/05/2023,,26/09/2023,Activo
 LA Distribuciones,Cliente,LA Distribuciones - BBJet Expedición,BBJet Expedición,4,9,,Activo,11/05/2023,08/05/2023,,26/09/2023,
+Autopartes AC,Cliente,,,5,,,Activo,24/05/2023,17/05/2023,,11/09/2023,
+TOYO NQN,Cliente,,,3,,,Activo,25/04/2023,25/04/2023,,12/06/2023,
 MANET,Cliente,Créditos,Módulo PalJet Créditos,10,,19,Activo,23/06/2023,31/05/2023,,,Activo
 MANET,Cliente,BBJet Pretium,BBJet Pretium,10,,19,Activo,23/06/2023,31/05/2023,,,Activo
 GRAVAFILT,Cliente,Gravafilt - Logística,Módulo Logística,8,,,Activo,25/04/2023,25/04/2023,,16/08/2023,Activo
 GRAVAFILT,Cliente,Contabilidad (Sin capacitaciones solo módulo),Módulo Contabilidad,8,,,Activo,25/04/2023,25/04/2023,,16/08/2023,Activo
 GRAVAFILT,Cliente,Gravafilt - Factura Crédito Electrónica,Módulo Factura de crédito electrónica,8,,,Activo,25/04/2023,25/04/2023,,16/08/2023,Activo
+ODIARD TODO REPUESTOS,Cliente,,,3,,,Activo,04/05/2023,28/04/2023,,03/07/2023,
+Labelec,Cliente,,,12,,,Activo,01/09/2025,29/08/2025,,,
 CORRALON VAQUEROS,Cliente,CORRALON VAQUEROS - PalJetERP,PalJet ERP estándar - Licencia servidor (backend),3,,,Activo,21/03/2023,17/03/2023,,23/06/2023,Activo
 MATERIALES PARANA,Cliente,Factura Electrónica,Módulo Facturación electrónica (CAE),4,,,Activo,02/02/2023,31/01/2023,,21/03/2023,Activo
 MATERIALES PARANA,Cliente,MATERIALES PARANA - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),4,,,Activo,02/02/2023,31/01/2023,,21/03/2023,Activo
+PEDRO BRAVIN,Cliente,,,,6,,Activo,13/02/2023,30/01/2023,,,
+Agrolac,Cliente,,,9,3,,Activo,19/05/2023,03/05/2023,,,
 Lubricentro Goya,Cliente,Lubricentro Goya - BBJet BtoB,BBJet BtoB,14,,18,Activo,25/01/2023,12/01/2023,,01/06/2023,Activo
 Lubricentro Goya,Cliente,Lubricentro Goya - Orden de servicio,Módulo Orden de servicio,14,,18,Activo,25/01/2023,12/01/2023,,01/06/2023,Activo
 Lubricentro Goya,Cliente,Lubricentro Goya - Facturación electrónica,Módulo Facturación electrónica (CAE),14,,18,Activo,25/01/2023,12/01/2023,,01/06/2023,Activo
@@ -88,12 +122,15 @@ Lubricentro Goya,Cliente,Lubricentro Goya - ML 2.0,BBJet ML (v. 2.0),14,,18,Acti
 Lubricentro Goya,Cliente,Lubricentro Goya - Notificaciones,BBJet Notificador,14,,18,Activo,25/01/2023,12/01/2023,,01/06/2023,
 Lubricentro Goya,Cliente,Lubricentro Goya - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),14,,18,Activo,25/01/2023,12/01/2023,,01/06/2023,Activo
 Lubricentro Goya,Cliente,Lubricentro Goya - Web Service,Abono mensual - Web Service PalJet ERP (para integraciones),14,,18,Activo,25/01/2023,12/01/2023,,01/06/2023,Activo
+Electromak,Cliente,,,6,,,Activo,05/03/2024,29/02/2024,,01/07/2025,
 AMC SA,Cliente,AMC - Logística,Módulo Logística,6,,,Activo,13/04/2023,13/04/2023,,22/08/2023,Activo
 AMC SA,Cliente,Contabilidad,Módulo Contabilidad,6,,,Activo,13/04/2023,13/04/2023,,22/08/2023,Activo
 BOGGIO REPUESTOS,Cliente,BOGGIO REPUESTOS - BBJet BtoB,BBJet BtoB,9,,,Activo,28/11/2022,25/11/2022,,07/12/2022,
 BOGGIO REPUESTOS,Cliente,BOGGIO REPUESTOS - BBJet Gestión de Inventario,BBJet Gestion de inventario,9,,,Activo,28/11/2022,25/11/2022,,07/12/2022,Activo
 BOGGIO REPUESTOS,Cliente,BOGGIO REPUESTOS - BBJet Expdición,BBJet Expedición,9,,,Activo,28/11/2022,25/11/2022,,07/12/2022,Activo
+Gralifer Necochea,Cliente,,,5,,,Activo,05/10/2022,23/09/2022,,01/09/2022,
 Marín Materiales,Cliente,Marín Materiales - Acopio por acuerdo de precios,Módulo Acopio por acuerdo de precios,7,,,Activo,10/02/2023,30/01/2023,,,Activo
+Toyomec Repuestos,Cliente,,,3,,,Activo,28/10/2022,06/10/2022,,,
 Amatriain,Cliente,Amatriain - Facturación electrónica,Módulo Facturación electrónica (CAE),5,,,Activo,17/06/2011,17/06/2011,,17/06/2011,Activo
 Gromax,Cliente,GROMAX - PalJet ERP SaaS Estándar,PalJet ERP SaaS Estándar,7,,3,Activo,12/10/2022,29/08/2022,,29/09/2022,Activo
 CCS,Cliente,CCS - Logísitca,Módulo Logística,19,,,Activo,26/09/2022,19/09/2022,,02/05/2023,
@@ -108,6 +145,7 @@ MGL Complementos,Cliente,MGL Complementos - Contabilidad,Módulo Contabilidad,15
 MGL Complementos,Cliente,MGL Complementos - Empresa adicional,PalJet ERP Empresa adicional,15,,,Activo,10/08/2022,28/07/2022,,31/03/2023,Activo
 MGL Complementos,Cliente,MGL Complementos - Sincronismo de Base de datos,Sincronismo de Base de datos (actualización de artículos y precios),15,,,Activo,10/08/2022,28/07/2022,,31/03/2023,
 Génesis,Cliente,Empresa Adicional,PalJet ERP Empresa adicional,6,,,Activo,03/02/2023,26/01/2023,,,
+Paraná Distribuciones,Cliente,,,,,,Activo,19/08/2022,18/08/2022,,,
 EL SURCO,Cliente,EL SURCO - Business Intelligence,Business Intelligence,21,,4,Activo,25/07/2022,15/07/2022,,01/12/2022,Activo
 EL SURCO,Cliente,EL SURCO - Orden de servicio,Módulo Orden de servicio,21,,4,Activo,25/07/2022,15/07/2022,,01/12/2022,Activo
 EL SURCO,Cliente,EL SURCO - Contabilidad,Módulo Contabilidad,21,,4,Activo,25/07/2022,15/07/2022,,01/12/2022,Activo
@@ -115,17 +153,23 @@ Consultora Constructiva,Cliente,Consultora Constructiva - Factura de crédito,M�
 Maderera San Antonio,Cliente,MADERAS SAN ANTONIO - Logística,Módulo Logística,10,,,Activo,12/07/2022,04/07/2022,,18/03/2023,
 Maderera San Antonio,Cliente,MADERAS SAN ANTONIO - Factura electrónica,Módulo Facturación electrónica (CAE),10,,,Activo,12/07/2022,04/07/2022,,18/03/2023,
 LOISA,Cliente,LOISA - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,2,1,,Activo,04/07/2022,01/07/2022,,08/08/2022,Activo
+Repuestos Vieytes,Cliente,,,8,,,Activo,09/08/2022,29/07/2022,,03/06/2024,
+Encofrados Pemaco,Cliente,,,3,,,Activo,08/08/2022,01/08/2022,,,
+E-Parts - Lubricentro Maju,Cliente,,,3,,,Activo,,23/06/2022,,,
 Ferretería Comercial Colón,Cliente,FERRETERÍA COMERCIAL COLÓN - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),35,,40,Activo,02/02/2023,01/02/2023,,02/01/2024,Activo
 Ferretería Comercial Colón,Cliente,FERRETERIA COMERCIAL COLON - Contabilidad,Módulo Contabilidad,35,,40,Activo,02/02/2023,01/02/2023,,02/01/2024,Activo
+Marquiz,Cliente,,,4,,,Activo,20/05/2022,19/05/2022,,18/04/2023,
 La Mendocina,Cliente,La Medocina - Logística,Módulo Logística,15,3,,Activo,20/04/2022,12/04/2022,,28/12/2022,
 La Mendocina,Cliente,La Mendocina - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,15,3,,Activo,20/04/2022,12/04/2022,,28/12/2022,Activo
 La Mendocina,Cliente,La Mendocina - Factura Electrónica,Módulo Facturación electrónica (CAE),15,3,,Activo,20/04/2022,12/04/2022,,28/12/2022,
+Compraliados,Cliente,,,,,,Activo,,,,01/05/2022,
 Total Caño,Cliente,Total Caño - BBJet Mobile Preventa,BBJet Mobile Preventa Licencia servidor,15,3,,Activo,19/05/2022,04/04/2022,,19/10/2022,Activo
 Total Caño,Cliente,Total Caño - BBJet BtoB,BBJet BtoB,15,3,,Activo,19/05/2022,04/04/2022,,19/10/2022,
 Total Caño,Cliente,Total Caño - Facturación electrónica,Módulo Facturación electrónica (CAE),15,3,,Activo,19/05/2022,04/04/2022,,19/10/2022,Activo
 Gotte,Cliente,GOTTE - Factura electrónica,Módulo Facturación electrónica (CAE),12,,,Activo,10/05/2022,11/05/2022,,,
 Gotte,Cliente,GOTTE - Contabilidad,Módulo Contabilidad,12,,,Activo,10/05/2022,11/05/2022,,,
 Gotte,Cliente,GOTTE - Logísitica,Módulo Logística,12,,,Activo,10/05/2022,11/05/2022,,,
+DIESEL TOTO,Cliente,,,3,,,Activo,13/04/2022,12/04/2022,,,
 FERRETERIA CARVAJAL,Cliente,FERRETERIA CARVAJAL - Factura de crédito,Módulo Factura de crédito electrónica,7,,,Activo,28/04/2022,23/04/2022,,09/01/2023,
 Montajes y Construcciones Quequén,Cliente,MONTAJES Y CONSTRUCCIONES QUEQUÉN - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),10,,,Activo,31/03/2022,22/03/2022,,03/04/2023,Activo
 Corralón 1° de Mayo,Cliente,Logistica,,16,,,Activo,25/01/2022,24/01/2022,,22/04/2022,
@@ -134,7 +178,8 @@ Corralón Santiago,Cliente,CORRALÓN SANTIAGO - Módulo de Facturación Electró
 Corralón Santiago,Cliente,Corralón Santiago - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),5,,,Activo,21/07/2022,29/06/2022,,19/08/2024,Activo
 E-Parts - Maretto,Cliente,E-Parts - Maretto - Factura electrónica,Módulo Facturación electrónica (CAE),5,,,Activo,08/02/2022,24/01/2022,,23/05/2022,Activo
 Greca,Cliente,Greca - Factura de crédito,Módulo Factura de crédito electrónica,10,,,Activo,23/06/2022,10/06/2022,,09/01/2023,Activo
-Lampe,Cliente,LAMPE - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),7,,,Activo,21/08/2024,08/08/2024,,04/09/2024,Inactivo
+Ferretotal,Cliente,,,3,,3,Activo,19/06/2025,17/06/2025,,03/10/2025,
+Lampe,Cliente,LAMPE - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),7,,,Activo,21/08/2024,08/08/2024,,04/09/2024,Activo
 Ferretería del Norte,Cliente,FERRETERIA EL NORTE - Logística,Módulo Logística,14,,,Activo,24/05/2022,17/05/2022,,01/10/2022,
 Ferretería del Norte,Cliente,FACTURA ELECTRÓNICA,Módulo Facturación electrónica (CAE),14,,,Activo,24/05/2022,17/05/2022,,01/10/2022,
 Ferretería del Norte,Cliente,FERRETERIA DEL NORTE - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),14,,,Activo,24/05/2022,17/05/2022,,01/10/2022,Activo
@@ -143,6 +188,7 @@ Ferretería del Norte,Cliente,Liquido Producto - Ferretería del Norte,Liquido P
 EC SAPEM,Cliente,EC SAPEM - BBJet BtoB,Abono mensual - BBJet B2B (usuarios ilimitados) INACTIVO,40,,8,Activo,22/12/2021,15/12/2021,,07/02/2023,Activo
 EC SAPEM,Cliente,FACTURA ELECTRÓNICA,Módulo Facturación electrónica (CAE),40,,8,Activo,22/12/2021,15/12/2021,,07/02/2023,Activo
 EC SAPEM,Cliente,EC SAPEM - Orden de Servicio,Módulo Orden de servicio,40,,8,Activo,22/12/2021,15/12/2021,,07/02/2023,Inactivo
+Acqua Pinturería,Cliente,,,4,,,Activo,10/01/2022,16/11/2021,,02/01/2024,
 LEOFILM,Cliente,LEOFILM - BBJet Mobile Preventa,BBJet Mobile Preventa Licencia servidor,21,10,,Activo,05/01/2022,10/12/2021,,02/05/2023,Activo
 LEOFILM,Cliente,LEOFILM - BBJet BtoB,BBJet B2B (hasta 150 usuarios),21,10,,Activo,05/01/2022,10/12/2021,,02/05/2023,Activo
 LEOFILM,Cliente,LEOFILM - BBJet Expedición,BBJet Expedición,21,10,,Activo,05/01/2022,10/12/2021,,02/05/2023,Activo
@@ -163,9 +209,13 @@ Distribuidora Sensel,Cliente,DISTRIBUIDORA SENSEL - Factura electrónica,Módulo
 NELEA MOBILI,Cliente,NELEA MOBILI - Factura electrónica,Módulo Facturación electrónica (CAE),8,,,Activo,23/08/2021,23/08/2021,,03/01/2022,
 NELEA MOBILI,Cliente,NELEA MOBILI - Contabilidad,Módulo Contabilidad,8,,,Activo,23/08/2021,23/08/2021,,03/01/2022,
 El Rey del Cable - Franquicia Chilecito,Cliente,Factura electrónica,Módulo Facturación electrónica (CAE),3,,2,Activo,,06/08/2021,,10/09/2021,Activo
+El Rey del Cable - Franquicia Paraná,Cliente,,,3,,3,Activo,,06/08/2021,,10/11/2021,
 Corralón y Ferretería Mauri,Cliente,Logistica,PalJet ERP,7,,,Activo,12/08/2021,13/08/2021,,19/10/2021,
 Corralón y Ferretería Mauri,Cliente,Contabilidad,PalJet ERP,7,,,Activo,12/08/2021,13/08/2021,,19/10/2021,
 Corralón y Ferretería Mauri,Cliente,FACTURA ELECTRÓNICA,Módulo Facturación electrónica (CAE),7,,,Activo,12/08/2021,13/08/2021,,19/10/2021,Activo
+Casa Andrés,Cliente,,,6,,,Activo,20/10/2021,15/09/2021,,,
+Casa Álvarez Ruiz,Cliente,,,4,,,Activo,12/08/2021,09/08/2021,,22/05/2023,
+Workok,Cliente,,,4,,,Activo,17/08/2021,06/08/2021,,03/11/2021,
 E-Parts - Grupo Cervantes,Cliente,Grupo Cervantes - BBJet BtoB,BBJet B2B (usuarios ilimitados) INACTIVO,18,,,Activo,03/08/2021,21/07/2021,,18/10/2021,
 E-Parts - Grupo Cervantes,Cliente,Grupo Cervantes - Empresa Adicional (Cega Electrónica SA),PalJet ERP Empresa adicional,18,,,Activo,03/08/2021,21/07/2021,,18/10/2021,Inactivo
 E-Parts - Grupo Cervantes,Cliente,Grupo Cervantes - Empresa Adicional (Lamy Hugo Víctor),PalJet ERP Empresa adicional,18,,,Activo,03/08/2021,21/07/2021,,18/10/2021,Inactivo
@@ -173,18 +223,28 @@ E-Parts - Grupo Cervantes,Cliente,Grupo Cervantes - Contabilidad,Módulo Contabi
 E-Parts - Grupo Cervantes,Cliente,Grupo Cervantes - Facturación electrónica,Módulo Facturación electrónica (CAE),18,,,Activo,03/08/2021,21/07/2021,,18/10/2021,Activo
 E-Parts - Grupo Cervantes,Cliente,Grupo Cervantes - Créditos,Módulo PalJet Créditos,18,,,Activo,03/08/2021,21/07/2021,,18/10/2021,Activo
 E-Parts - Grupo Cervantes,Cliente,E-Parts - Grupo Cervantes - Business Intelligence,Business Intelligence,18,,,Activo,03/08/2021,21/07/2021,,18/10/2021,Activo
+Per Se Materiales,Cliente,,,5,,,Activo,08/11/2021,25/10/2021,,14/02/2022,
 NAHUEL EQUIPAMIENTOS,Cliente,Factura electrónica,,4,,,Activo,17/09/2021,02/09/2021,,,Activo
+SUSPENSION FRANCIA,Cliente,,,12,,,Activo,20/09/2021,08/09/2021,,,
 Eykén,Cliente,EYKEN - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),12,,,Activo,,04/06/2021,,,Activo
 Eykén,Cliente,BBJet Mobile - EYKEN,BBJet Mobile Preventa Licencia servidor,12,,,Activo,,04/06/2021,,,Activo
+EL BAMBU,Cliente,,,4,,,Activo,30/06/2021,28/06/2021,,16/11/2021,
 FGC,Cliente,FGC - Oden de servicio,Módulo Orden de servicio,5,,,Activo,01/06/2023,13/05/2023,,22/08/2023,Activo
+Agrobarbero,Cliente,,,5,,,Activo,28/05/2021,18/05/2021,,18/03/2022,
+Embrague Concordia,Cliente,,,3,,,Activo,25/07/2023,20/07/2023,,03/01/2024,
 Ineco,Cliente,Ineco - Contabilidad,Módulo Contabilidad,18,,,Activo,16/04/2015,,,01/09/2015,
 Ineco,Cliente,INECO - Factura electrónica,Módulo Facturación electrónica (CAE),18,,,Activo,16/04/2015,,,01/09/2015,
 Ineco,Cliente,INECO - Ptoyecto y Facturación cíclica.,Módulo Facturación Cíclica,18,,,Activo,16/04/2015,,,01/09/2015,
 Ineco,Cliente,Btob (No se dicto cap),BBJet BtoB,18,,,Activo,16/04/2015,,,01/09/2015,Activo
+FERRETEC,Cliente,,,4,,,Activo,22/11/2022,16/11/2022,,03/07/2023,
+CABODEVILA REPUESTOS,Cliente,,,7,,,Activo,26/09/2022,19/09/2022,,03/02/2025,
 FORTEHOUSE,Cliente,FORTEHOUSE-BI,Business Intelligence,28,,,Activo,19/07/2021,09/06/2021,,23/11/2021,Activo
 FORTEHOUSE,Cliente,FACTURA ELECTRÓNICA,Módulo Facturación electrónica (CAE),28,,,Activo,19/07/2021,09/06/2021,,23/11/2021,Activo
 FORTEHOUSE,Cliente,FORTEHOUSE - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),28,,,Activo,19/07/2021,09/06/2021,,23/11/2021,Activo
 FORTEHOUSE,Cliente,FORTEHOUSE - Web Service,Web Service PalJet ERP (para integraciones),28,,,Activo,19/07/2021,09/06/2021,,23/11/2021,Activo
+La Casa del Acoplado,Cliente,,,7,,,Activo,06/07/2022,28/06/2022,,,
+SAN MIGUEL CERÁMICOS,Cliente,,,17,,,Activo,24/06/2021,,,12/07/2021,
+E-PARTS,Cliente,,,0,,,Activo,,15/03/2021,,,
 CLEDOVIO,Cliente,Alquileres,Módulo Alquileres / Rental,5,,,Activo,30/04/2021,22/03/2021,,07/06/2022,Activo
 CLEDOVIO,Cliente,CLEDOVIO - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),5,,,Activo,30/04/2021,22/03/2021,,07/06/2022,Activo
 ANGACO MATERIALES,Cliente,ANGACO MATERIALES - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,12,8,,Activo,13/05/2021,12/03/2021,,02/08/2021,Activo
@@ -195,10 +255,12 @@ E-Parts - JL Repuestos,Cliente,E-Parts - JL Repuestos - Módulo Facturación ele
 BRM REPUESTOS SAS,Cliente,BRM REPUESTOS SAS - Contabilidad,Módulo Contabilidad,6,,,Activo,20/11/2020,20/11/2020,,04/12/2020,
 TERENTI MATERIALES,Cliente,TERENTI MATERIALES - Logística,Módulo Logística,5,,,Activo,04/11/2020,04/11/2020,,19/05/2021,
 TERENTI MATERIALES,Cliente,TERENTI MATERIALES - Acuerdo de precios,Módulo Acopio por acuerdo de precios,5,,,Activo,04/11/2020,04/11/2020,,19/05/2021,
+EL HORNERO MATERIALES,Cliente,,,5,,,Activo,30/10/2020,30/10/2020,,,
 BOITARD MAQUINARIA,Cliente,Boitard Maquinaria - Orden de servicio,Módulo Orden de servicio,8,,,Activo,03/11/2020,03/11/2020,,11/05/2022,Activo
 AUTOPARK,Cliente,AUTOPARK - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),12,,,Activo,05/11/2020,05/11/2020,,06/09/2021,
 AUTOPARK,Cliente,Empresa adicional,PalJet ERP Empresa adicional,12,,,Activo,05/11/2020,05/11/2020,,06/09/2021,
 AUTOPARK,Cliente,AUTOPARK - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),12,,,Activo,05/11/2020,05/11/2020,,06/09/2021,Activo
+MUNDO AUTOPARTES,Cliente,,,18,,,Activo,30/12/2020,30/12/2020,,19/04/2022,
 ARMECON,Cliente,ARMECON - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),4,,,Activo,09/10/2020,09/10/2020,,02/11/2020,
 LA COLONIA,Cliente,LA COLONIA - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),3,,,Activo,09/10/2020,09/10/2020,,02/11/2021,
 LA COLONIA,Cliente,LA COLONIA - Logistica,Módulo Logística,3,,,Activo,09/10/2020,09/10/2020,,02/11/2021,
@@ -240,12 +302,14 @@ DON COCO,Cliente,DON COCO - PalJet ERP,PalJet ERP estándar - Licencia servidor 
 EL REY DEL CABLE - FRANQUICIA MENDOZA,Cliente,EL REY DEL CABLE - FRANQUICIA MENDOZA - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),3,,,Activo,10/08/2020,10/08/2020,,01/07/2021,
 EL REY DEL CABLE - FRANQUICIA ZONA NORTE BUENOS AIRES,Cliente,EL REY DEL CABLE - FRANQUICIA ZONA NORTE BUENOS AIRES - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),3,,,Activo,10/08/2020,10/08/2020,,04/09/2020,
 BULON RIESTRA,Cliente,BULON RIESTRA - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),3,,,Activo,10/08/2020,10/08/2020,,14/09/2020,
+CASA VIEIRA,Cliente,,,3,,,Activo,19/08/2020,19/08/2020,,01/04/2022,
 DISTRIBUIDORA LA T,Cliente,DISTRIBUIDORA LA T (Zoho) - BBJet Pretium,BBJet Pretium,12,,,Activo,20/08/2020,20/08/2020,,01/09/2020,
 DISTRIBUIDORA LA T,Cliente,DISTRIBUIDORA LA T (Zoho) - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,12,,,Activo,20/08/2020,20/08/2020,,01/09/2020,
 DISTRIBUIDORA LA T,Cliente,DISTRIBUIDORA LA T - Factura electrónica,Módulo Facturación electrónica (CAE),12,,,Activo,20/08/2020,20/08/2020,,01/09/2020,
 DISTRIBUIDORA LA T,Cliente,DISTRIBUIDORA LA T - Orden de Servicio,Módulo Orden de servicio,12,,,Activo,20/08/2020,20/08/2020,,01/09/2020,Activo
 DISTRIBUIDORA LA T,Cliente,DISTRIBUIDORA LA T - Power BI,Business Intelligence,12,,,Activo,20/08/2020,20/08/2020,,01/09/2020,Activo
 DISTRIBUIDORA LA T,Cliente,DISTRIBUIDORA LA T - Acopio por acuerdo de precios,Módulo Acopio por acuerdo de precios,12,,,Activo,20/08/2020,20/08/2020,,01/09/2020,Activo
+CORRALÓN LUBRINA,Cliente,,,14,,,Activo,31/07/2020,31/07/2020,,,
 OSCAR PERUSIA,Cliente,OSCAR PERUSIA - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),8,,,Activo,19/08/2020,19/08/2020,,01/10/2020,
 OSCAR PERUSIA,Cliente,OSCAR PERUSIA - Contabilidad,Módulo Contabilidad,8,,,Activo,19/08/2020,19/08/2020,,01/10/2020,
 OSCAR PERUSIA,Cliente,OSCAR PERUSIA - Multiempresa,PalJet ERP Empresa adicional,8,,,Activo,19/08/2020,19/08/2020,,01/10/2020,
@@ -254,6 +318,8 @@ DAVID MAQUINARIAS,Cliente,DAVID MAQUINARIAS - BBJet Pretium,BBJet Pretium,14,,,A
 DAVID MAQUINARIAS,Cliente,DAVID MAQUINARIAS - Factura de credito,Módulo Factura de crédito electrónica,14,,,Activo,14/07/2020,14/07/2020,,01/10/2020,
 DAVID MAQUINARIAS,Cliente,DAVID MAQUINARIAS - Orden de servicio,Módulo Orden de servicio,14,,,Activo,14/07/2020,14/07/2020,,01/10/2020,
 DAVID MAQUINARIAS,Cliente,Business Intelligence,Business Intelligence,14,,,Activo,14/07/2020,14/07/2020,,01/10/2020,Activo
+MAQUINARIAS LOS TANOS,Cliente,,,3,,,Activo,07/07/2020,07/07/2020,,,
+BOURLOT CENTRO DE CORTES,Cliente,,,8,,,Activo,26/06/2020,26/06/2020,,17/09/2020,
 LA LAGUNA MATERIALES,Cliente,LA LAGUNA MATERIALES - Logistica,Módulo Logística,16,,,Activo,12/05/2020,12/05/2020,,13/09/2021,
 LA LAGUNA MATERIALES,Cliente,LA LAGUNA MATERIALES - Factura Electrónica,Módulo Facturación electrónica (CAE),16,,,Activo,12/05/2020,12/05/2020,,13/09/2021,
 IOMAQ,Cliente,IOMAQ - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),14,,,Activo,24/06/2020,24/06/2020,,06/07/2020,
@@ -315,6 +381,8 @@ SUMIAGRO,Cliente,SUMIAGRO - PalJet ERP,PalJet ERP estándar - Licencia servidor 
 SUMIAGRO,Cliente,Liquido Producto - Sumiagro,Liquido Producto,33,3,,Activo,24/10/2019,24/10/2019,,06/01/2020,Activo
 EL GURI,Cliente,EL GURI - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),6,,,Activo,27/04/2020,27/04/2020,,16/12/2019,
 EL REY DEL CABLE - FRANQUICIA SANTIAGO DEL ESTERO,Cliente,EL REY DEL CABLE - FRANQUICIA SANTIAGO DEL ESTERO - Factura de crédito electrónica,Módulo Factura de crédito electrónica,4,,,Activo,14/06/2019,14/06/2019,,10/03/2022,
+EL REY DEL CABLE - FRANQUICIA PUNTA ALTA,Cliente,,,3,,,Activo,17/08/2019,17/08/2019,,22/05/2023,
+EL REY DEL CABLE - FRANQUICIA FORMOSA,Cliente,,,3,,,Activo,24/04/2019,24/04/2019,,02/08/2022,
 CONSTRUMUNDO,Cliente,CONSTRUMUNDO - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),10,,,Activo,01/07/2019,01/07/2019,,08/01/2020,
 CONSTRUMUNDO,Cliente,CONSTRUMUNDO - Logistica,Módulo Logística,10,,,Activo,01/07/2019,01/07/2019,,08/01/2020,
 CONSTRUMUNDO,Cliente,CONSTRUMUNDO -Contabilidad,Módulo Contabilidad,10,,,Activo,01/07/2019,01/07/2019,,08/01/2020,
@@ -352,6 +420,7 @@ IMPRESORA DEL NEA SA,Cliente,IMPRESORA DEL NEA - Business Intelligence,Business 
 IMPRESORA DEL NEA SA,Cliente,IMPRESORA DEL NEA SA - Paljet ERP,Instalación adicional Servidor Windows PalJet® ERP,21,,,Activo,25/04/2019,25/04/2019,,02/09/2019,Activo
 IMPRESORA DEL NEA SA,Cliente,IMPRESORA DEL NEA SA - BBJet Expedición,BBJet Expedición,21,,,Activo,25/04/2019,25/04/2019,,02/09/2019,Activo
 IMPRESORA DEL NEA SA,Cliente,IMPRESORA DEL NEA SA - BBJet Gestion de Inventario,BBJet Gestion de inventario,21,,,Activo,25/04/2019,25/04/2019,,02/09/2019,Activo
+IMPRESORA DEL NEA SA,Cliente,IMPRESORA DEL NEA SA - Sincronismo de Base de datos,Sincronismo de Base de datos (actualización de artículos y precios),21,,,Activo,25/04/2019,25/04/2019,,02/09/2019,Activo
 FORKRET,Cliente,FORKRET - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),7,,,Activo,06/03/2019,06/03/2019,,02/08/2019,
 FORKRET,Cliente,FORKRET - Webservice,Web Service,7,,,Activo,06/03/2019,06/03/2019,,02/08/2019,
 FORKRET,Cliente,FORKRET - Logistica,Módulo Logística,7,,,Activo,06/03/2019,06/03/2019,,02/08/2019,
@@ -367,6 +436,7 @@ INTER PARTS,Cliente,INTER PARTS - Exportación de precios y stock para produteca
 INTER PARTS,Cliente,INTER PARTS - Business Intelligence,Business Intelligence,12,,,Activo,15/03/2019,15/03/2019,,08/04/2019,Activo
 INTER PARTS,Cliente,INTER PARTS - Empresa adicional (E-INTERPARTS SRL),PalJet ERP Empresa adicional,12,,,Activo,15/03/2019,15/03/2019,,08/04/2019,
 INTER PARTS,Cliente,INTER PARTS - Contabilidad,Módulo Contabilidad,12,,,Activo,15/03/2019,15/03/2019,,08/04/2019,
+FERRETERIA ELLERO,Cliente,,,8,,,Activo,22/01/2019,22/01/2019,,01/08/2019,
 TODO TELAS,Cliente,TODO TELAS - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),4,,,Activo,02/01/2019,26/12/2018,,08/04/2020,
 TODO TELAS,Cliente,TODO TELAS - Paljet ERP,PalJet ERP estándar - Licencia servidor (backend),4,,,Activo,02/01/2019,26/12/2018,,08/04/2020,Activo
 ANSECOR,Cliente,ANSECOR - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),3,,,Activo,14/12/2018,14/12/2018,,22/07/2019,
@@ -395,18 +465,18 @@ RTI / PBS - NICARAGUA,Cliente,RTI / PBS - NICARAGUA - Web Service,Web Service,70
 RTI / PBS - NICARAGUA,Cliente,RTI / PBS - NICARAGUA - Orden de servicio,Módulo Orden de servicio,70,,,Activo,28/09/2018,28/09/2018,,02/08/2021,
 TOYOTA DEL SUR,Cliente,TOYOTA DEL SUR - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),4,,,Activo,14/06/2018,14/06/2018,,04/10/2018,
 TOYOTA DEL SUR,Cliente,TOYOTA DEL SUR - Factura de crédito,Módulo Factura de crédito electrónica,4,,,Activo,14/06/2018,14/06/2018,,04/10/2018,Activo
-FERROMUNDO,Cliente,FERROMUNDO - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),55,,,Activo,04/06/2018,04/06/2018,,02/07/2018,
-FERROMUNDO,Cliente,FERROMUNDO - BBJet Pretium,BBJet Pretium,55,,,Activo,04/06/2018,04/06/2018,,02/07/2018,
-FERROMUNDO,Cliente,FERROMUNDO - Contabilidad,Módulo Contabilidad,55,,,Activo,04/06/2018,04/06/2018,,02/07/2018,
-FERROMUNDO,Cliente,FERROMUNDO - BBJet BtoB,BBJet B2B (hasta 150 usuarios),55,,,Activo,04/06/2018,04/06/2018,,02/07/2018,
-FERROMUNDO,Cliente,FERROMUNDO - Webservice,Web Service,55,,,Activo,04/06/2018,04/06/2018,,02/07/2018,
-FERROMUNDO,Cliente,FERROMUNDO - BBJet BtoC,Tienda BtoC,55,,,Activo,04/06/2018,04/06/2018,,02/07/2018,Inactivo
-FERROMUNDO,Cliente,FERROMUNDO - Factura de crédito,Módulo Factura de crédito electrónica,55,,,Activo,04/06/2018,04/06/2018,,02/07/2018,Activo
-FERROMUNDO,Cliente,FERROMUNDO - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,55,,,Activo,04/06/2018,04/06/2018,,02/07/2018,Inactivo
-FERROMUNDO,Cliente,FERROMUNDO - Business Intelligence,Business Intelligence,55,,,Activo,04/06/2018,04/06/2018,,02/07/2018,Activo
-FERROMUNDO,Cliente,FERROMUNDO - Autorización de comprobantes,Módulo Autorización de comprobantes,55,,,Activo,04/06/2018,04/06/2018,,02/07/2018,
-FERROMUNDO,Cliente,FERROMUNDO - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),55,,,Activo,04/06/2018,04/06/2018,,02/07/2018,Activo
-FERROMUNDO,Cliente,FERROMUNDO-Acuerdo de precio,Módulo Acopio por acuerdo de precios,55,,,Activo,04/06/2018,04/06/2018,,02/07/2018,Activo
+FERROMUNDO,Cliente,FERROMUNDO - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),57,,,Activo,04/06/2018,04/06/2018,,02/07/2018,
+FERROMUNDO,Cliente,FERROMUNDO - BBJet Pretium,BBJet Pretium,57,,,Activo,04/06/2018,04/06/2018,,02/07/2018,
+FERROMUNDO,Cliente,FERROMUNDO - Contabilidad,Módulo Contabilidad,57,,,Activo,04/06/2018,04/06/2018,,02/07/2018,
+FERROMUNDO,Cliente,FERROMUNDO - BBJet BtoB,BBJet B2B (hasta 150 usuarios),57,,,Activo,04/06/2018,04/06/2018,,02/07/2018,
+FERROMUNDO,Cliente,FERROMUNDO - Webservice,Web Service,57,,,Activo,04/06/2018,04/06/2018,,02/07/2018,
+FERROMUNDO,Cliente,FERROMUNDO - BBJet BtoC,Tienda BtoC,57,,,Activo,04/06/2018,04/06/2018,,02/07/2018,Inactivo
+FERROMUNDO,Cliente,FERROMUNDO - Factura de crédito,Módulo Factura de crédito electrónica,57,,,Activo,04/06/2018,04/06/2018,,02/07/2018,Activo
+FERROMUNDO,Cliente,FERROMUNDO - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,57,,,Activo,04/06/2018,04/06/2018,,02/07/2018,Inactivo
+FERROMUNDO,Cliente,FERROMUNDO - Business Intelligence,Business Intelligence,57,,,Activo,04/06/2018,04/06/2018,,02/07/2018,Activo
+FERROMUNDO,Cliente,FERROMUNDO - Autorización de comprobantes,Módulo Autorización de comprobantes,57,,,Activo,04/06/2018,04/06/2018,,02/07/2018,
+FERROMUNDO,Cliente,FERROMUNDO - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),57,,,Activo,04/06/2018,04/06/2018,,02/07/2018,Activo
+FERROMUNDO,Cliente,FERROMUNDO-Acuerdo de precio,Módulo Acopio por acuerdo de precios,57,,,Activo,04/06/2018,04/06/2018,,02/07/2018,Activo
 AGSA,Cliente,AGSA - Facturación electrónica,Módulo Facturación electrónica (CAE),12,,,Activo,11/05/2018,11/05/2018,,24/07/2019,Activo
 AGSA,Cliente,AGSA - Empresa adicional,PalJet ERP Empresa adicional,12,,,Activo,11/05/2018,11/05/2018,,24/07/2019,
 TOYOMEC,Cliente,TOYOMEC - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),8,,,Activo,09/03/2018,09/03/2018,,11/06/2018,
@@ -448,8 +518,9 @@ METALÚRGICA PASGAL,Cliente,METALÚRGICA PASGAL - Contabilidad,Módulo Contabili
 METALÚRGICA PASGAL,Cliente,METALÚRGICA PASGAL - BBJet BtoB,BBJet BtoB,8,,,Activo,13/11/2017,13/11/2017,,22/01/2018,
 METALÚRGICA PASGAL,Cliente,METALÚRGICA PASGAL - BBJet BtoB,,8,,,Activo,13/11/2017,13/11/2017,,22/01/2018,
 METALÚRGICA PASGAL,Cliente,METALÚRGICA PASGAL - Paljet ERP,PalJet ERP estándar - Licencia servidor (backend),8,,,Activo,13/11/2017,13/11/2017,,22/01/2018,Activo
-ROLÓN MOTOSIERRAS,Cliente,ROLÓN MOTOSIERRAS - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),11,,,Activo,10/11/2017,,,12/03/2018,
-ROLÓN MOTOSIERRAS,Cliente,ROLÓN MOTOSIERRAS - Orden de servicio,Módulo Orden de servicio,11,,,Activo,10/11/2017,,,12/03/2018,
+REPUESTOS AVENIDA,Cliente,,,16,,,Activo,20/10/2017,20/10/2017,,06/02/2018,
+ROLÓN MOTOSIERRAS,Cliente,ROLÓN MOTOSIERRAS - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),12,,,Activo,10/11/2017,,,12/03/2018,
+ROLÓN MOTOSIERRAS,Cliente,ROLÓN MOTOSIERRAS - Orden de servicio,Módulo Orden de servicio,12,,,Activo,10/11/2017,,,12/03/2018,
 DRUBICH Y CIA,Cliente,DRUBICH Y CIA - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),12,,,Activo,08/09/2017,08/09/2017,,17/02/2020,
 DRUBICH Y CIA,Cliente,DRUBICH Y CIA - Contabilidad,Módulo Contabilidad,12,,,Activo,08/09/2017,08/09/2017,,17/02/2020,
 DRUBICH Y CIA,Cliente,DRUBICH Y CIA - Factura de crédito electrónica,Módulo Factura de crédito electrónica,12,,,Activo,08/09/2017,08/09/2017,,17/02/2020,
@@ -471,13 +542,13 @@ NESTOR SIGOT S.A.,Cliente,NESTOR SIGOT S.A. - Web Service,Web Service,25,,,Activ
 NESTOR SIGOT S.A.,Cliente,NESTOR SIGOT S.A. - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,25,,,Activo,12/03/2018,12/03/2018,,02/01/2019,
 NESTOR SIGOT S.A.,Cliente,NESTOR SIGOT S.A. - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),25,,,Activo,12/03/2018,12/03/2018,,02/01/2019,Activo
 NESTOR SIGOT S.A.,Cliente,NESTOR SIGOT S.A. - BBJet ML 2.0,BBJet ML (v. 2.0),25,,,Activo,12/03/2018,12/03/2018,,02/01/2019,Activo
-CABLE A TIERRA,Cliente,CABLE A TIERRA - Proyectos y fact. ciclica,Módulo Facturación Cíclica,12,,,Activo,24/08/2017,24/08/2017,,09/05/2017,
-CABLE A TIERRA,Cliente,CABLE A TIERRA - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),12,,,Activo,24/08/2017,24/08/2017,,09/05/2017,
-CABLE A TIERRA,Cliente,CABLE A TIERRA - BBJet BtoB,BBJet BtoB,12,,,Activo,24/08/2017,24/08/2017,,09/05/2017,
-CABLE A TIERRA,Cliente,CABLE A TIERRA - Webservice,Web Service,12,,,Activo,24/08/2017,24/08/2017,,09/05/2017,
-CABLE A TIERRA,Cliente,CABLE A TIERRA - Orden de servicio,Módulo Orden de servicio,12,,,Activo,24/08/2017,24/08/2017,,09/05/2017,
-CABLE A TIERRA,Cliente,CABLE A TIERRA - BBJet CRM,BBJet CRM,12,,,Activo,24/08/2017,24/08/2017,,09/05/2017,
-CABLE A TIERRA,Cliente,CABLE A TIERRA - Factura de crédito,Módulo Factura de crédito electrónica,12,,,Activo,24/08/2017,24/08/2017,,09/05/2017,Activo
+CABLE A TIERRA,Cliente,CABLE A TIERRA - Proyectos y fact. ciclica,Módulo Facturación Cíclica,12,,,Activo,02/08/2017,02/08/2017,,09/05/2017,
+CABLE A TIERRA,Cliente,CABLE A TIERRA - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),12,,,Activo,02/08/2017,02/08/2017,,09/05/2017,
+CABLE A TIERRA,Cliente,CABLE A TIERRA - BBJet BtoB,BBJet BtoB,12,,,Activo,02/08/2017,02/08/2017,,09/05/2017,
+CABLE A TIERRA,Cliente,CABLE A TIERRA - Webservice,Web Service,12,,,Activo,02/08/2017,02/08/2017,,09/05/2017,
+CABLE A TIERRA,Cliente,CABLE A TIERRA - Orden de servicio,Módulo Orden de servicio,12,,,Activo,02/08/2017,02/08/2017,,09/05/2017,
+CABLE A TIERRA,Cliente,CABLE A TIERRA - BBJet CRM,BBJet CRM,12,,,Activo,02/08/2017,02/08/2017,,09/05/2017,
+CABLE A TIERRA,Cliente,CABLE A TIERRA - Factura de crédito,Módulo Factura de crédito electrónica,12,,,Activo,02/08/2017,02/08/2017,,09/05/2017,Activo
 AGROPECUARIA ALMAFUERTE,Cliente,AGROPECUARIA ALMAFUERTE - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),21,14,,Activo,01/08/2017,01/08/2017,,06/01/2018,
 AGROPECUARIA ALMAFUERTE,Cliente,AGROPECUARIA ALMAFUERTE - Contabilidad,Módulo Contabilidad,21,14,,Activo,01/08/2017,01/08/2017,,06/01/2018,
 AGROPECUARIA ALMAFUERTE,Cliente,AGROPECUARIA ALMAFUERTE - Webservice,Web Service,21,14,,Activo,01/08/2017,01/08/2017,,06/01/2018,
@@ -567,6 +638,7 @@ MP SERVICIOS,Cliente,Módulo Multiempresa,PalJet ERP estándar - Licencia servid
 MP SERVICIOS,Cliente,MP SERVICIOS - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),9,,,Activo,14/06/2016,14/06/2016,,01/08/2016,Activo
 MP SERVICIOS,Cliente,MP SERVICIOS - Web Service,Web Service PalJet ERP (para integraciones),9,,,Activo,14/06/2016,14/06/2016,,01/08/2016,Activo
 TERRAMAQ,Cliente,TERRAMAQ - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),1,,,Activo,16/06/2017,16/06/2017,,03/10/2016,
+HIELO ELCA,Cliente,,,4,,,Activo,03/05/2016,03/05/2016,,08/08/2016,
 AMPERBAT,Cliente,AMPERBAT - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),6,,,Activo,18/03/2016,18/03/2016,,04/01/2017,
 AMPERBAT,Cliente,AMPERBAT - Orden de servicio,Módulo Orden de servicio,6,,,Activo,18/03/2016,18/03/2016,,04/01/2017,
 AMPERBAT,Cliente,AMPERBAT - Empresa adicional,PalJet ERP Empresa adicional,6,,,Activo,18/03/2016,18/03/2016,,04/01/2017,
@@ -583,6 +655,7 @@ CONSTRUCOM,Cliente,CONSTRUCOM - PalJet ERP,PalJet ERP estándar - Licencia servi
 MORRIS,Cliente,MORRIS - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),6,,,Activo,28/03/2016,28/03/2016,,02/01/2018,
 MORRIS,Cliente,MORRIS - Módulo Acopio por acuerdo de precios,Módulo Acopio por acuerdo de precios,6,,,Activo,28/03/2016,28/03/2016,,02/01/2018,Activo
 MORRIS,Cliente,MORRIS - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),6,,,Activo,28/03/2016,28/03/2016,,02/01/2018,Activo
+HUGO MONTERO - HULRICH,Cliente,,,5,,,Activo,22/01/2016,22/01/2016,,26/09/2016,
 INTEQ,Cliente,INTEQ - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),4,10,,Activo,11/01/2016,11/01/2016,,18/01/2016,
 INTEQ,Cliente,INTEQ - Webservice,Web Service,4,10,,Activo,11/01/2016,11/01/2016,,18/01/2016,
 INTEQ,Cliente,INTEQ - Logistica,Módulo Logística,4,10,,Activo,11/01/2016,11/01/2016,,18/01/2016,
@@ -603,6 +676,7 @@ TOYOTA LAS HERAS,Cliente,TOYOTA LAS HERAS - Webservice,Web Service,16,,,Activo,0
 TOYOTA LAS HERAS,Cliente,TOYOTA LAS HERAS - BBJet ML 2.0,BBJet ML (v. 2.0),16,,,Activo,04/12/2015,04/12/2015,,04/04/2016,
 TOYOTA LAS HERAS,Cliente,TOYOTA LAS HERAS - BBJet Recursos,BBJet Recursos,16,,,Activo,04/12/2015,04/12/2015,,04/04/2016,
 TOYOTA LAS HERAS,Cliente,TOYOTA LAS HERAS - BBJet Notificador,BBJet Notificador,16,,,Activo,04/12/2015,04/12/2015,,04/04/2016,
+LAS HERAS FG FRANQUICIA,Cliente,,,2,,,Activo,04/12/2015,04/12/2015,,18/01/2016,
 LA OBRA,Cliente,LA OBRA - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),6,,,Activo,11/12/2015,11/12/2015,,14/03/2017,
 LA OBRA,Cliente,LA OBRA - Logistica,Módulo Logística,6,,,Activo,11/12/2015,11/12/2015,,14/03/2017,
 CHARITO,Cliente,CHARITO - Contabilidad,Módulo Contabilidad,12,,,Activo,09/11/2015,09/11/2015,,18/02/2016,
@@ -618,6 +692,7 @@ IRIGOYEN,Cliente,IRIGOYEN - Empresa adicional (Chaves Fernando Martín),PalJet E
 DODVAL,Cliente,DODVAL - Webservice,Web Service,5,,,Activo,02/11/2015,02/11/2015,,16/08/2017,
 DODVAL,Cliente,DODVAL - BBJet ML,BBJet ML (v. 1.0),5,,,Activo,02/11/2015,02/11/2015,,16/08/2017,Activo
 DODVAL,Cliente,DODVAL - BBJet Recursos,BBJet Recursos,5,,,Activo,02/11/2015,02/11/2015,,16/08/2017,Activo
+SAN AGUSTIN,Cliente,,,3,,,Activo,03/11/2015,03/11/2015,01/10/2020,24/05/2016,
 GECO,Cliente,GECO - Proyectos y fact. cíclica,Módulo Facturación Cíclica,6,,,Activo,19/10/2015,19/10/2015,,01/03/2016,
 GECO,Cliente,GECO - Facturación electrónica (CAE),Módulo Facturación electrónica (CAE),6,,,Activo,19/10/2015,19/10/2015,,01/03/2016,
 GECO,Cliente,GECO - Contabilidad,Módulo Contabilidad,6,,,Activo,19/10/2015,19/10/2015,,01/03/2016,
@@ -640,10 +715,10 @@ AUTOPIEZAS RM,Cliente,Autopiezas RM - BBJet BtoB,BBJet BtoB,4,,,Activo,01/04/201
 Rossi Materiales,Cliente,ROSSI - Facturación electrónica (CAE),Módulo Facturación electrónica (CAE),12,,,Activo,11/07/2015,11/07/2015,,26/01/2016,
 Rossi Materiales,Cliente,ROSSI - Contabilidad,Módulo Contabilidad,12,,,Activo,11/07/2015,11/07/2015,,26/01/2016,
 Rossi Materiales,Cliente,ROSSI - Logística,Módulo Logística,12,,,Activo,11/07/2015,11/07/2015,,26/01/2016,
-ASERRADERO H,Cliente,ASERRADERO H - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),11,,,Activo,12/08/2015,12/08/2015,,01/04/2016,
-ASERRADERO H,Cliente,ASERRADERO H - Contabilidad,Módulo Contabilidad,11,,,Activo,12/08/2015,12/08/2015,,01/04/2016,
-ASERRADERO H,Cliente,ASERRADERO H - Multiempresa,PalJet ERP Empresa adicional,11,,,Activo,12/08/2015,12/08/2015,,01/04/2016,
-ASERRADERO H,Cliente,ASERRADERO H - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),11,,,Activo,12/08/2015,12/08/2015,,01/04/2016,Activo
+ASERRADERO H,Cliente,ASERRADERO H - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),16,,,Activo,12/08/2015,12/08/2015,,01/04/2016,
+ASERRADERO H,Cliente,ASERRADERO H - Contabilidad,Módulo Contabilidad,16,,,Activo,12/08/2015,12/08/2015,,01/04/2016,
+ASERRADERO H,Cliente,ASERRADERO H - Multiempresa,PalJet ERP Empresa adicional,16,,,Activo,12/08/2015,12/08/2015,,01/04/2016,
+ASERRADERO H,Cliente,ASERRADERO H - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),16,,,Activo,12/08/2015,12/08/2015,,01/04/2016,Activo
 TRES MORAS,Cliente,TRES MORAS - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),3,,,Activo,08/07/2015,08/07/2015,,12/05/2016,
 TRES MORAS,Cliente,TRES MORAS - Multiempresa,PalJet ERP Empresa adicional,3,,,Activo,08/07/2015,08/07/2015,,12/05/2016,
 TRES MORAS,Cliente,TRES MORAS - Logistica,Módulo Logística,3,,,Activo,08/07/2015,08/07/2015,,12/05/2016,
@@ -699,8 +774,8 @@ INSUMOS REFRIGERACIONES,Cliente,INSUMOS REFRIGERACIONES - Facturacion electronic
 WUIGNIER,Cliente,WUIGNIER - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),14,,,Activo,25/08/2014,25/08/2014,,01/09/2014,
 WUIGNIER,Cliente,WUIGNIER - Contabilidad,Módulo Contabilidad,14,,,Activo,25/08/2014,25/08/2014,,01/09/2014,
 WUIGNIER,Cliente,WUIGNIER - Multiempresa,PalJet ERP Empresa adicional,14,,,Activo,25/08/2014,25/08/2014,,01/09/2014,
-AIRE TOTAL,Cliente,AIRE TOTAL - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),14,,,Activo,25/08/2014,25/08/2014,,14/08/2014,
-AIRE TOTAL,Cliente,AIRE TOTAL - Contabilidad,Módulo Contabilidad,14,,,Activo,25/08/2014,25/08/2014,,14/08/2014,
+AIRE TOTAL,Cliente,AIRE TOTAL - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),14,,,Activo,25/08/2014,25/08/2014,,01/11/2014,
+AIRE TOTAL,Cliente,AIRE TOTAL - Contabilidad,Módulo Contabilidad,14,,,Activo,25/08/2014,25/08/2014,,01/11/2014,
 SIA,Cliente,SIA - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),23,,,Activo,01/07/2014,01/07/2014,,03/08/2015,
 SIA,Cliente,SIA - Contabilidad,Módulo Contabilidad,23,,,Activo,01/07/2014,01/07/2014,,03/08/2015,
 SIA,Cliente,SIA - Multiempresa,PalJet ERP Empresa adicional,23,,,Activo,01/07/2014,01/07/2014,,03/08/2015,
@@ -898,12 +973,12 @@ BASUALDO,Cliente,BASUALDO - Web Service,Web Service,10,,,Activo,15/01/2012,15/01
 BASUALDO,Cliente,BASUALDO - Logística,Módulo Logística,10,,,Activo,15/01/2012,15/01/2012,,15/01/2012,
 BASUALDO,Cliente,BASUALDO - Facturación electrónica,Módulo Facturación electrónica (CAE),10,,,Activo,15/01/2012,15/01/2012,,15/01/2012,
 BASUALDO,Cliente,BASUALDO - BBJet Recursos,BBJet Recursos,10,,,Activo,15/01/2012,15/01/2012,,15/01/2012,Activo
-ALLEGRA,Cliente,ALLEGRA - Facturación electrónica (CAE),Módulo Facturación electrónica (CAE),18,,,Activo,01/11/2012,01/11/2012,,10/09/2012,
-ALLEGRA,Cliente,ALLEGRA - Contabilidad,Módulo Contabilidad,18,,,Activo,01/11/2012,01/11/2012,,10/09/2012,
-ALLEGRA,Cliente,ALLEGRA - Empresa adicional,PalJet ERP Empresa adicional,18,,,Activo,01/11/2012,01/11/2012,,10/09/2012,
-ALLEGRA,Cliente,ALLEGRA - Web Service,Web Service,18,,,Activo,01/11/2012,01/11/2012,,10/09/2012,
-ALLEGRA,Cliente,ALLEGRA - Logística,Módulo Logística,18,,,Activo,01/11/2012,01/11/2012,,10/09/2012,
-ALLEGRA,Cliente,ALLEGRA - Acuerdos de precios,Módulo Acopio por acuerdo de precios,18,,,Activo,01/11/2012,01/11/2012,,10/09/2012,Activo
+ALLEGRA,Cliente,ALLEGRA - Facturación electrónica (CAE),Módulo Facturación electrónica (CAE),18,,,Activo,01/12/2011,01/12/2011,,10/09/2012,
+ALLEGRA,Cliente,ALLEGRA - Contabilidad,Módulo Contabilidad,18,,,Activo,01/12/2011,01/12/2011,,10/09/2012,
+ALLEGRA,Cliente,ALLEGRA - Empresa adicional,PalJet ERP Empresa adicional,18,,,Activo,01/12/2011,01/12/2011,,10/09/2012,
+ALLEGRA,Cliente,ALLEGRA - Web Service,Web Service,18,,,Activo,01/12/2011,01/12/2011,,10/09/2012,
+ALLEGRA,Cliente,ALLEGRA - Logística,Módulo Logística,18,,,Activo,01/12/2011,01/12/2011,,10/09/2012,
+ALLEGRA,Cliente,ALLEGRA - Acuerdos de precios,Módulo Acopio por acuerdo de precios,18,,,Activo,01/12/2011,01/12/2011,,10/09/2012,Activo
 MAURI,Cliente,MAURI - Facturación electrónica (CAE),Módulo Facturación electrónica (CAE),50,,,Activo,20/10/2011,20/10/2011,,06/08/2012,
 MAURI,Cliente,MAURI - Contabilidad,Módulo Contabilidad,50,,,Activo,20/10/2011,20/10/2011,,06/08/2012,
 MAURI,Cliente,MAURI - Logística,Módulo Logística,50,,,Activo,20/10/2011,20/10/2011,,06/08/2012,
@@ -1084,21 +1159,21 @@ Bulonera del Sur,Cliente,BUSCALIA - Web Service,Web Service,29,,,Activo,01/10/20
 Bulonera del Sur,Cliente,BUSCALIA - Orden de servicio,Módulo Orden de servicio,29,,,Activo,01/10/2007,01/10/2007,,01/10/2007,
 Bulonera del Sur,Cliente,BUSCALIA - Factura de Crédito Electrónica,Módulo Factura de crédito electrónica,29,,,Activo,01/10/2007,01/10/2007,,01/10/2007,
 Bulonera del Sur,Cliente,Bulonera del Sur - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),29,,,Activo,01/10/2007,01/10/2007,,01/10/2007,Activo
-BULONERA PATAGÓNICA,Cliente,BULOPAT - Facturación electrónica (CAE),Módulo Facturación electrónica (CAE),6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,
-BULONERA PATAGÓNICA,Cliente,BULOPAT - BBJet Pretium,BBJet Pretium,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
-BULONERA PATAGÓNICA,Cliente,BULOPAT - Contabilidad,Módulo Contabilidad,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,
-BULONERA PATAGÓNICA,Cliente,BULOPAT - Alquileres,Módulo Alquileres / Rental,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,
-BULONERA PATAGÓNICA,Cliente,BULOPAT - BBJet BtoB,BBJet B2B (hasta 150 usuarios),6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
-BULONERA PATAGÓNICA,Cliente,BULOPAT - Web Service,Web Service,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
-BULONERA PATAGÓNICA,Cliente,BULOPAT - Logística,Módulo Logística,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,
-BULONERA PATAGÓNICA,Cliente,BULOPAT - Orden de servicio,Módulo Orden de servicio,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,
-BULONERA PATAGÓNICA,Cliente,BULOPAT - Paljet ERP,PalJet ERP estándar - Licencia servidor (backend),6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
-BULONERA PATAGÓNICA,Cliente,BULOPAT - BBJet Gestión de Inventarios,BBJet Gestion de inventario,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
-BULONERA PATAGÓNICA,Cliente,BULOPAT - BBJet ML,BBJet ML (v. 2.0),6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
-BULONERA PATAGÓNICA,Cliente,BULOPAT - BBJet Recursos,BBJet Recursos,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
-BULONERA PATAGÓNICA,Cliente,BULOPAT - BBJet Notificador,BBJet Notificador,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
-BULONERA PATAGÓNICA,Cliente,BULOPAT - Power BI,Business Intelligence,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
-BULONERA PATAGÓNICA,Cliente,BULOPAT - BBJet Expedición,BBJet Expedición,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
+Bulonera Patagónica,Cliente,BULOPAT - Facturación electrónica (CAE),Módulo Facturación electrónica (CAE),6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,
+Bulonera Patagónica,Cliente,BULOPAT - BBJet Pretium,BBJet Pretium,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
+Bulonera Patagónica,Cliente,BULOPAT - Contabilidad,Módulo Contabilidad,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,
+Bulonera Patagónica,Cliente,BULOPAT - Alquileres,Módulo Alquileres / Rental,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,
+Bulonera Patagónica,Cliente,BULOPAT - BBJet BtoB,BBJet B2B (hasta 150 usuarios),6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
+Bulonera Patagónica,Cliente,BULOPAT - Web Service,Web Service,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
+Bulonera Patagónica,Cliente,BULOPAT - Logística,Módulo Logística,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,
+Bulonera Patagónica,Cliente,BULOPAT - Orden de servicio,Módulo Orden de servicio,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,
+Bulonera Patagónica,Cliente,BULOPAT - Paljet ERP,PalJet ERP estándar - Licencia servidor (backend),6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
+Bulonera Patagónica,Cliente,BULOPAT - BBJet Gestión de Inventarios,BBJet Gestion de inventario,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
+Bulonera Patagónica,Cliente,BULOPAT - BBJet ML,BBJet ML (v. 2.0),6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
+Bulonera Patagónica,Cliente,BULOPAT - BBJet Recursos,BBJet Recursos,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
+Bulonera Patagónica,Cliente,BULOPAT - BBJet Notificador,BBJet Notificador,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
+Bulonera Patagónica,Cliente,BULOPAT - Power BI,Business Intelligence,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
+Bulonera Patagónica,Cliente,BULOPAT - BBJet Expedición,BBJet Expedición,6,,,Activo,23/11/2008,23/11/2008,,02/07/2025,Activo
 BETCAR,Cliente,BETCAR - Facturación electrónica,Módulo Facturación electrónica (CAE),7,,,Activo,09/03/2010,09/03/2010,,09/03/2010,Activo
 BETCAR,Cliente,BETCAR - Contabilidad,Módulo Contabilidad,7,,,Activo,09/03/2010,09/03/2010,,09/03/2010,Activo
 BIOMED,Cliente,BIOMED - Facturación electrónica (CAE),Módulo Facturación electrónica (CAE),7,,,Activo,28/02/2005,28/02/2005,,28/02/2005,
@@ -1130,14 +1205,14 @@ ALMADA,Cliente,ALMADA - Factura de crédito Electrónica,Módulo Factura de cré
 ALMADA,Cliente,ALMADA - Gestión de Inventario,BBJet Gestion de inventario,25,,,Activo,21/01/2007,21/01/2007,,21/01/2007,Activo
 ALMADA,Cliente,ALMADA - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),25,,,Activo,21/01/2007,21/01/2007,,21/01/2007,Activo
 ALMADA,Cliente,ALMADA - BBJet Recursos,BBJet Recursos,25,,,Activo,21/01/2007,21/01/2007,,21/01/2007,Activo
-AGUA NUESTRA,Cliente,AGUA NUESTRA - Proyectos y fact. ciclica,Módulo Facturación Cíclica,20,20,,Activo,18/11/2008,18/11/2008,,01/08/2008,
-AGUA NUESTRA,Cliente,AGUA NUESTRA - Facturación electrónica (CAE),Módulo Facturación electrónica (CAE),20,20,,Activo,18/11/2008,18/11/2008,,01/08/2008,
-AGUA NUESTRA,Cliente,AGUA NUESTRA - Contabilidad,Módulo Contabilidad,20,20,,Activo,18/11/2008,18/11/2008,,01/08/2008,
-AGUA NUESTRA,Cliente,AGUA NUESTRA - Web Service,Web Service,20,20,,Activo,18/11/2008,18/11/2008,,01/08/2008,
-AGUA NUESTRA,Cliente,AGUA NUESTRA - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,20,20,,Activo,18/11/2008,18/11/2008,,01/08/2008,
-AGUA NUESTRA,Cliente,AGUA NUESTRA - BBJet Notificador,BBJet Notificador,20,20,,Activo,18/11/2008,18/11/2008,,01/08/2008,
-AGUA NUESTRA,Cliente,AGUA NUESTRA - Logística,Módulo Logística,20,20,,Activo,18/11/2008,18/11/2008,,01/08/2008,Activo
-AGUA NUESTRA,Cliente,AGUA NUESTRA - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),20,20,,Activo,18/11/2008,18/11/2008,,01/08/2008,Activo
+AGUA NUESTRA,Cliente,AGUA NUESTRA - Proyectos y fact. ciclica,Módulo Facturación Cíclica,20,20,,Activo,18/11/2008,18/11/2008,,02/01/2009,
+AGUA NUESTRA,Cliente,AGUA NUESTRA - Facturación electrónica (CAE),Módulo Facturación electrónica (CAE),20,20,,Activo,18/11/2008,18/11/2008,,02/01/2009,
+AGUA NUESTRA,Cliente,AGUA NUESTRA - Contabilidad,Módulo Contabilidad,20,20,,Activo,18/11/2008,18/11/2008,,02/01/2009,
+AGUA NUESTRA,Cliente,AGUA NUESTRA - Web Service,Web Service,20,20,,Activo,18/11/2008,18/11/2008,,02/01/2009,
+AGUA NUESTRA,Cliente,AGUA NUESTRA - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,20,20,,Activo,18/11/2008,18/11/2008,,02/01/2009,
+AGUA NUESTRA,Cliente,AGUA NUESTRA - BBJet Notificador,BBJet Notificador,20,20,,Activo,18/11/2008,18/11/2008,,02/01/2009,
+AGUA NUESTRA,Cliente,AGUA NUESTRA - Logística,Módulo Logística,20,20,,Activo,18/11/2008,18/11/2008,,02/01/2009,Activo
+AGUA NUESTRA,Cliente,AGUA NUESTRA - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),20,20,,Activo,18/11/2008,18/11/2008,,02/01/2009,Activo
 AGRUCOR ACE,Cliente,AGRUCOR ACE - Facturacion electronica (CAE),Módulo Facturación electrónica (CAE),0,,,Activo,29/03/2006,29/03/2006,,29/03/2006,
 AGRUCOR ACE,Cliente,AGRUCOR ACE - Contabilidad,Módulo Contabilidad,0,,,Activo,29/03/2006,29/03/2006,,29/03/2006,
 AGRUCOR ACE,Cliente,AGRUCOR ACE - Web,PalJet Network Web,0,,,Activo,29/03/2006,29/03/2006,,29/03/2006,
@@ -1193,13 +1268,15 @@ NATALI PLASTICOS,Cliente,NATALI PLASTICOS - Acuerdo de precios,Módulo Acopio po
 NATALI PLASTICOS,Cliente,NATALI PLASTICOS - BBJet BtoB,BBJet BtoB,15,6,,Activo,20/07/2021,07/07/2021,,,
 NATALI PLASTICOS,Cliente,NATALI PLASTICOS - BBJet Gestión de inventario,BBJet Gestion de inventario,15,6,,Activo,20/07/2021,07/07/2021,,,
 NATALI PLASTICOS,Cliente,NATALI PLASTICOS - BBJet Mobile,BBJet Mobile Preventa Licencia servidor,15,6,,Activo,20/07/2021,07/07/2021,,,
+Morante Construcciones,Cliente,,,14,,,Activo,05/03/2025,18/02/2025,,,
 MACRO PACK,Cliente,Macropack - BBJet BtoB,BBJet B2B (hasta 150 usuarios),23,,,Activo,12/06/2014,,,21/08/2014,Activo
 MACRO PACK,Cliente,Macropack - Facturación electrónica (CAE),Módulo Facturación electrónica (CAE),23,,,Activo,12/06/2014,,,21/08/2014,Activo
 KILOWATT,Cliente,KILOWATT - Contabilidad,Módulo Contabilidad,14,,,Activo,24/02/2021,24/02/2021,,25/06/2021,
 KILOWATT,Cliente,KILOWATT - Facturación electrónica,Módulo Facturación electrónica (CAE),14,,,Activo,24/02/2021,24/02/2021,,25/06/2021,Activo
-El Ranquel,Cliente,Facturación dólar - El Ranquel,PalJet ERP estándar - Licencia servidor (backend),15,,,Activo,18/12/2023,04/12/2023,,,Inactivo
-El Ranquel,Cliente,Orden de servicio El Ranquel,Módulo Orden de servicio,15,,,Activo,18/12/2023,04/12/2023,,,Activo
+El Ranquel,Cliente,Facturación dólar - El Ranquel,PalJet ERP estándar - Licencia servidor (backend),15,,,Activo,18/12/2023,04/12/2023,,01/09/2025,Inactivo
+El Ranquel,Cliente,Orden de servicio El Ranquel,Módulo Orden de servicio,15,,,Activo,18/12/2023,04/12/2023,,01/09/2025,Activo
 El Mangrullo,Cliente,EL MANGRULLO - Factura electrónica,Módulo Facturación electrónica (CAE),5,,,Activo,05/07/2021,02/07/2021,,03/12/2021,
+Corralón Kalama,Cliente,,,9,,,Activo,22/12/2021,20/12/2021,,14/01/2025,
 Corralón Domus,Cliente,CORRALÓN DOMUS - MÓDULO LOGÍSTICA,Módulo Logística,10,,,Activo,20/01/2022,18/01/2022,,,
 Corralón Domus,Cliente,FACTURA ELECTRÓNICA,Módulo Facturación electrónica (CAE),10,,,Activo,20/01/2022,18/01/2022,,,Activo
 ANDERSEN MATERIALES,Cliente,ANDERSEN MATERIALES - Facturación electrónica (CAE),Módulo Facturación electrónica (CAE),55,,,Activo,15/01/2021,15/01/2021,,13/09/2021,
@@ -1208,3 +1285,4 @@ ANDERSEN MATERIALES,Cliente,ANDERSEN MATERIALES - Logística,Módulo Logística,
 ANDERSEN MATERIALES,Cliente,ANDERSEN MATERIALES - Acuerdo de precios,Módulo Acopio por acuerdo de precios,55,,,Activo,15/01/2021,15/01/2021,,13/09/2021,
 ANDERSEN MATERIALES,Cliente,ANDERSEN MATERIALES - Autorización de comprobantes,Módulo Autorización de comprobantes,55,,,Activo,15/01/2021,15/01/2021,,13/09/2021,
 ANDERSEN MATERIALES,Cliente,ANDERSEN MATERIALES - PalJet ERP,PalJet ERP estándar - Licencia servidor (backend),55,,,Activo,15/01/2021,15/01/2021,,13/09/2021,Activo
+ALQUILAR BAHÍA BLANCA,Cliente,,,3,,,Activo,16/04/2021,30/03/2021,,02/07/2021,
